@@ -24,7 +24,7 @@ ChartJS.register(
 
 interface StockRow {
   Date: string;
-  Close: number;
+  close: number;
   Ticker: string;
 }
 
